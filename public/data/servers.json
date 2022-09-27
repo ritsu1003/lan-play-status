@@ -327,7 +327,7 @@
   },
   {
     "ip": "ns.ix.tc",
-    "port": 11451,
+    "port": 49514,
     "flag": "cn",
     "platform": "switch",
     "type": "rust"
